@@ -11,7 +11,7 @@ export default function Footer() {
       <a href="https://master--shecodereact.netlify.app/">on GitHub</a> and
       hosted
       <a
-        href="https://master--shecodereact.netlify.app/overview"
+        href="https://master--candid-salamander-91c8a3.netlify.app/"
         target="blank"
         rel="noreferrer"
       >
