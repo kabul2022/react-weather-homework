@@ -7,14 +7,9 @@ export default function Footer() {
       <a href="https://github.com/kabul2022" target="blank">
         Aziza Rezaie
       </a>{" "}
-      it's,"
-      <a
-        href="https://github.com/kabul2022/react-weather-homework"
-        target="blank"
-      >
-        on GitHub
-      </a>{" "}
-      and hosted
+      it's,
+      <a href="https://master--shecodereact.netlify.app/">on GitHub</a> and
+      hosted
       <a
         href="https://master--shecodereact.netlify.app/overview"
         target="blank"
